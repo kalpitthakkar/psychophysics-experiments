@@ -1,3 +1,6 @@
 [submodule "pathfinder"]
 	path = pathfinder
 	url = https://github.com/kalpitthakkar/pathfinder.git
+[submodule "clutteredABC"]
+	path = clutteredABC
+	url = https://github.com/kalpitthakkar/clutteredABC.git
